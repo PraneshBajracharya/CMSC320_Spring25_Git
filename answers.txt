@@ -5,3 +5,7 @@ Answer: When working on a project in a group Git helps track changes and collabo
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Healthcare
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines branches by creating a new commit and rebasing moves commits onto a new base
