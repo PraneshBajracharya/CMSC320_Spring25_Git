@@ -1,0 +1,3 @@
+Q1: Why might we consider using Git?
+
+Answer: When working on a project in a group Git helps track changes and collaborate efficienetly.
